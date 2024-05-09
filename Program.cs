@@ -142,5 +142,3 @@ Console.WriteLine($"A árvore contém o número {numeroNaoExiste}: {arvAVL.Conte
 
 arvAVL.Remover(7);
 arvAVL.TravessiaEmOrdem();
-
-Console.WriteLine();
